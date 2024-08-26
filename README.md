@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Ilker Sen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkersen3&label=Profile%20views&color=0e75b6&style=flat" alt="ilkersen3" /> </p>
-<h3 align="center">I am a <u></u>software engineer</h3>u> experienced in designing and building distributed, scalable systems using Go, Python, JavaScript, Php. </h3>
+<h3 align="center">I am a <u>software engineer</u> experienced in designing and building distributed, scalable systems using Go, Python, JavaScript, Php. </h3>
 <br>
 - 🌱 I’m currently learning #Golang
 <br>
